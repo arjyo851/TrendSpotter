@@ -19,7 +19,7 @@ __pycache__
 # production
 build
 
-venv
+myvenv
 
 # misc
 .DS_Store
@@ -31,3 +31,4 @@ venv
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+image_features_embedding.pkl

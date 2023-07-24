@@ -30,7 +30,7 @@ function Register() {
       <div className="relative overflow-hidden md:flex w-1/2 bg-gradient-to-tr from-blue-800 to-purple-700 i justify-around items-center hidden">
         <div>
           <h1 className="text-white font-bold text-4xl font-sans">
-            Alemeno Urine Strip Test
+            FashioRecommender
           </h1>
           <p className="text-white mt-1">  </p>
           <p className="text-white mt-1">  </p>

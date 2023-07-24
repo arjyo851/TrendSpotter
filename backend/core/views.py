@@ -12,7 +12,7 @@ from rest_framework.permissions import IsAuthenticated      # for authentication
 from core.utils.util import recc_images # for extracting colors
 from pathlib import Path # for getting the path of the file
 
-img_files_list = pickle.load(open("img_files.pkl", "rb"))
+img_files_list = pickle.load(open("core/utils/img_files.pkl", "rb"))
 
 class FileUploadView(GenericAPIView):
     serializer_class = FileSerializer

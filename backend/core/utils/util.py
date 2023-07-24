@@ -11,8 +11,8 @@ from numpy.linalg import norm
 from sklearn.neighbors import NearestNeighbors
 import os
 
-features_list = pickle.load(open("image_features_embedding.pkl", "rb"))
-img_files_list = pickle.load(open("img_files.pkl", "rb"))
+features_list = pickle.load(open("core/utils/image_features_embedding.pkl", "rb"))
+img_files_list = pickle.load(open("core/utils/img_files.pkl", "rb"))
 
 model = ResNet50(weights="imagenet", include_top=False, input_shape=(224, 224, 3))
 model.trainable = False

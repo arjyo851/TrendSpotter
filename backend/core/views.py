@@ -38,13 +38,13 @@ class FileUploadView(GenericAPIView):
         try:
             img_indicess = recc_images(os.path.join(Path(__file__).resolve().parent.parent, 'media', res.file.name))
             # print(img_indicess)
-            # recommended_images = []
-            # for image_path in img_indicess:
-            #     image_number = int(image_path.split('\\')[-1].split('.')[0])
-            #     recommended_images.append(image_number)
+            recommended_images = []
+            for image_path in img_indicess:
+                image_number = int(image_path.split('\\')[-1].split('.')[0])
+                recommended_images.append(image_number)
             # print(recommended_images)
             
-            recommended_images_json = json.dumps(img_indicess)
+            recommended_images_json = json.dumps(recommended_images)
             uploaded_file_path = os.path.join('media', res.file.name)
             response_data = {
                 'uploaded_image': uploaded_file_path,

@@ -2,6 +2,8 @@ import { useState } from "react";
 import Api from "../api/ApiConfig";
 import { JsonView, defaultStyles } from "react-json-view-lite";
 import "react-json-view-lite/dist/index.css";
+import ImageRecommender from "./ImageRecommender";
+const Logo = require('../assets/logo.png')
 
 function Convert() {
   const [data, setData] = useState<any>({});
@@ -25,15 +27,15 @@ function Convert() {
     <>
       <header>
         <nav className="my-5">
-          <div className="flex justify-between items-center max-w-6xl mx-auto h-16 bg-white text-black relative shadow-sm font-mono  space-x-11">
-            <div className="flex items-center justify-center space-x-2">
-              <a href="/" className="flex items-center justify-center">
-                <span className="font-bold text-gray-600">Fashion Recommedor</span>
+          <div className="flex justify-between items-center max-w-6xl mx-auto h-16 bg-white text-black relative font-sans space-x-11">
+            <div className="flex justify-center space-x-2">
+              <a href="/" className="flex items-center">
+                <img src={Logo} width={"45%"}/>
               </a>
             </div>
             <div>
               <button
-                className="p-5 bg-indigo-600 text-white rounded-md"
+                className="p-3 m-2 bg-indigo-600 text-white rounded-md"
                 onClick={() => {
                   window.localStorage.removeItem("auth_token");
                   window.localStorage.removeItem("user");
@@ -46,6 +48,7 @@ function Convert() {
           </div>
         </nav>
       </header>
+      <ImageRecommender />
       <div className="flex flex-col justify-center items-center h-screen w-screen max-w-4xl mx-auto">
         <h1 className="my-5 text-2xl text-center md:text-5xl font-bold text-[#333]">
           Extract Images 
@@ -95,13 +98,13 @@ function Convert() {
           </div>
         </div>
 
-        <div className="bg-white border-2 border-dashed max-w-5xl w-full h-72 overflow-y-scroll">
+        {/* <div className="bg-white border-2 border-dashed max-w-5xl w-full h-72 overflow-y-scroll">
           <JsonView
             data={data}
             shouldInitiallyExpand={(level) => true}
             style={defaultStyles}
           />
-        </div>
+        </div> */}
 
         <br/>
         <br/>

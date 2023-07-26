@@ -11,7 +11,7 @@ import pickle
 model = ResNet50(weights="imagenet", include_top=False, input_shape=(224, 224, 3))
 model.trainable = False
 
-model = Sequential([model, GlobalMaxPooling2D()])
+model = Sequential([model, GlobalMaxPooling2D()]) # adding global max pooling layer            Creating a Sequential model with GlobalMaxPooling2D laye
 #model.summary()
 
 def extract_features(img_path,model):

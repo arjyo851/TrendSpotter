@@ -48,6 +48,8 @@ def recc_images(file_path:str):
                 # extract features of the uploaded image
                 features = extract_img_features(file_path, model)
                 img_indicess = recommendd(features, features_list)
-
+                # print(img_indicess)
+                # print(img_indicess[0][1])
                 recommended_images = [img_files_list[index] for index in img_indicess[0]]
+                # print(recommended_images)
                 return recommended_images

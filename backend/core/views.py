@@ -11,6 +11,7 @@ from drf_yasg.utils import swagger_auto_schema # for swagger documentation
 from rest_framework.permissions import IsAuthenticated      # for authentication
 from core.utils.util import recc_images # for extracting colors
 from pathlib import Path # for getting the path of the file
+import json
 
 img_files_list = pickle.load(open("core/utils/img_files.pkl", "rb"))
 
@@ -32,17 +33,22 @@ class FileUploadView(GenericAPIView):
         try:
             res = File.objects.create(file=file)  # create a file object
         except Exception as e:
-            return JsonResponse({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+            return JsonResponse({"File error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
         # colors = extract_colors(os.path.join(Path(__file__).resolve().parent.parent, 'media', res.file.name))
         try:
             img_indicess = recc_images(os.path.join(Path(__file__).resolve().parent.parent, 'media', res.file.name))
-            print(img_indicess)
-            recommended_images = [img_files_list[index] for index in img_indicess[0]]
-            print(recommended_images)
-
+            # print(img_indicess)
+            # recommended_images = []
+            # for image_path in img_indicess:
+            #     image_number = int(image_path.split('\\')[-1].split('.')[0])
+            #     recommended_images.append(image_number)
+            # print(recommended_images)
+            
+            recommended_images_json = json.dumps(img_indicess)
+            uploaded_file_path = os.path.join('media', res.file.name)
             response_data = {
-                'uploaded_image': res.name,
-                'recommended_images': recommended_images,
+                'uploaded_image': uploaded_file_path,
+                'recommended_images': recommended_images_json,
             }
             return JsonResponse({
                 "success": "true",

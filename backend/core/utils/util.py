@@ -10,14 +10,14 @@ from tensorflow.keras.models import Sequential
 from numpy.linalg import norm
 from sklearn.neighbors import NearestNeighbors
 import os
+import ssl
 
 features_list = pickle.load(open("core/utils/image_features_embedding.pkl", "rb"))
 img_files_list = pickle.load(open("core/utils/img_files.pkl", "rb"))
-
+ssl._create_default_https_context = ssl._create_unverified_context
 model = ResNet50(weights="imagenet", include_top=False, input_shape=(224, 224, 3))
 model.trainable = False
 model = Sequential([model, GlobalMaxPooling2D()])
-
 
 def extract_img_features(img_path, model):
     img = image.load_img(img_path, target_size=(224, 224)) # loads image and resizes it

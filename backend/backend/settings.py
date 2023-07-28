@@ -103,7 +103,7 @@ ROOT_URLCONF = 'backend.urls'
 WSGI_APPLICATION = 'backend.wsgi.application'
 
 SIMPLE_JWT = { # simple jwt settings
-    "ACCESS_TOKEN_LIFETIME": timedelta(hours=1), # access token lifetime is 1 hour
+    "ACCESS_TOKEN_LIFETIME": timedelta(days=7), # access token lifetime is 1 hour
     "REFRESH_TOKEN_LIFETIME": timedelta(days=1), # refresh token lifetime is 1 day
     "ALGORITHM": "HS256",
     "ISSUER": "Arjyo",

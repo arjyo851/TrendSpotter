@@ -1,7 +1,13 @@
+import { Toaster } from "react-hot-toast";
 import { Router } from "./routes/Router";
 
 function App() {
-  return <Router />;
+  return (
+    <>
+      <Toaster />
+      <Router />;
+    </>
+  );
 }
 
 export default App;

@@ -1,4 +1,3 @@
-import React, { useState, useRef, FormEvent } from "react";
 import Avatar from "react-avatar";
 
 type MainScreenProps = {
@@ -18,9 +17,16 @@ const MainScreen: React.FC<MainScreenProps> = ({ scrollToRef }) => {
       }}
     >
       <div className="flex flex-row m-8 justify-between">
-        <Avatar name={window.localStorage.getItem('user')?.toString()} value="86%" size="40" round="20px" src="http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"/>
+        <Avatar
+          name={window.localStorage.getItem("user")?.toString()}
+          value="86%"
+          size="40"
+          round="20px"
+          src="http://www.gravatar.com/avatar/a16a38cdfe8b2cbd38e8a56ab93238d3"
+          className="cursor-pointer"
+        />
         <button
-          className="bg-white hover:bg-gray-100 text-black font-bold py-2 px-4 rounded-full transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-yellow-500 duration-300"
+          className="bg-white hover:bg-gray-100 text-black font-bold py-2 px-4 rounded-full transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-gray-100 duration-300"
           onClick={() => {
             window.localStorage.removeItem("auth_token");
             window.localStorage.removeItem("user");
@@ -42,7 +48,7 @@ const MainScreen: React.FC<MainScreenProps> = ({ scrollToRef }) => {
             inspiration at your fingertips
           </p>
           <button
-            className="bg-white hover:bg-gray-100 text-black py-2 px-4 rounded-full mt-8 lg:mt-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-yellow-500 duration-300"
+            className="bg-white hover:bg-gray-100 text-black py-2 px-4 rounded-full mt-8 lg:mt-4 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-gray-100 duration-300"
             onClick={handleScroll}
           >
             Try out

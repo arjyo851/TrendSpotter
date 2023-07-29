@@ -48,7 +48,7 @@ class FileUploadView(GenericAPIView):
             uploaded_file_path = os.path.join('media', res.file.name)
             response_data = {
                 'uploaded_image': uploaded_file_path,
-                'recommended_images': recommended_images_json,
+                'recommended_images': recommended_images,
             }
             return JsonResponse({
                 "success": "true",

@@ -18,5 +18,6 @@ class FileSerializer(ModelSerializer):
         return data
 
     def create(self, validated_data):
+        self.is_valid(raise_exception=true)
         file = File.objects.create(**validated_data) # create a file object
         return file

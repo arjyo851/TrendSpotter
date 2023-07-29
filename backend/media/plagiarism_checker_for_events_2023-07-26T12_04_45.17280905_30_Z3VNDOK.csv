@@ -1,0 +1,119 @@
+rank,user_id,name,graduation_year,email,phone_number,last_submission_time,college_name,score,score_int,ctrl_c,ctrl_v,webcam_allowed,webcam_stopped,screencapture_allowed,screencapture_blocked,tab_change
+1,2169148,Vaibhav Jain,2024,vaibhav.jain20122002@gmail.com,7428783431,2023-07-25T06:50:16.105188,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,No
+2,1365768,Ritika Nagar,2024,ritikanagar07@gmail.com,8955477092,2023-07-25T06:57:46.219002,Indraprastha Institute of Information Technology Delhi,120.0/150,120,1,4,Yes,,Yes,,Yes
+3,2129632,Harshvardhan singh,2024,harshvardhan7409@gmail.com,9953246622,2023-07-25T07:17:09.25137,Maharaja Surajmal Institute Of Technology,120.0/150,120,,2,Yes,Yes,Yes,,Yes
+4,1158577,Galileo,2024,sumit.16noida@gmail.com,8826159592,2023-07-25T07:26:14.408367,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,Yes
+5,1047703,Sahil Mahajan,2024,smahajan54842@gmail.com,8178524511,2023-07-25T07:26:59.432546,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,Yes
+6,1268979,Ashwin Bansal,2024,ashwinbansal123@gmail.com,8890504140,2023-07-25T07:39:06.35111,Jaypee University Of Engineering And Technology (JUET Guna),120.0/150,120,,,Yes,,Yes,,Yes
+7,3912693,Kashmira Jha,2024,kashmirajha2001@gmail.com,6290955430,2023-07-25T08:04:19.89785,Meghnad Saha Institute Of Technology,120.0/150,120,1,2,,Yes,Yes,,Yes
+8,4003932,Gopal Chand,2024,purohit1080@gmail.com,9999999999,2023-07-25T08:14:10.287997,Maharaja Surajmal Institute Of Technology,120.0/150,120,,2,Yes,Yes,Yes,Yes,Yes
+9,4249007,DEVI VARA PRASAD,2024,sarugudevivaraprasad@gmail.com,9391398361,2023-07-25T08:28:22.863864,Malla Reddy Engineering College,120.0/150,120,,,Yes,,Yes,,Yes
+10,1103981,Sachin Bajaj,2024,sachinbajaj0001@gmail.com,8882993663,2023-07-25T08:34:46.730191,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,Yes
+11,3913232,DEVI VARA PRASAD,2024,sdevivara88@gmail.com,6309891760,2023-07-25T08:35:54.077218,Malla Reddy Engineering College,120.0/150,120,,,Yes,,Yes,,Yes
+12,1078826,AMBUJ KUMAR,2024,ambujop12345@gmail.com,9205337728,2023-07-25T08:45:05.219002,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,Yes
+13,1547009,Abhishek Kantharia,2022,abhishek.kantharia@gmail.com,8411950650,2023-07-25T08:53:58.63023,MIT World Peace University,120.0/150,120,,1,Yes,,,Yes,Yes
+14,3973146,Bhavdeep Singh Nijhawan,2025,bhavdeepnijhawan22@gmail.com,9289239122,2023-07-25T09:53:04.40362,Guru Gobind Singh Indraprastha University,120.0/150,120,,,Yes,,Yes,,Yes
+15,1586655,Ayush Ashank,2024,ayushashank02@gmail.com,9910454983,2023-07-25T13:33:59.307927,Maharaja Surajmal Institute Of Technology,120.0/150,120,,2,Yes,,Yes,,Yes
+16,1651312,Pranav Tiwari,2024,pranavtiwari12j@gmail.com,8700072020,2023-07-25T15:26:49.673201,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,Yes
+17,183148,Vaibhav Munjal,2024,vaibhavmunjal89@gmail.com,9643686834,2023-07-25T16:13:57.521171,Maharaja Surajmal Institute Of Technology,120.0/150,120,,,Yes,,Yes,,Yes
+18,1744845,Ajeet Giri,2024,ajeetgiri9354@gmail.com,7827529107,2023-07-25T15:19:01.997949,Maharaja Surajmal Institute Of Technology,90.8/150,90.8,,,Yes,,Yes,,Yes
+19,2282501,Aman Karn,2024,amankarn172@gmail.com,9128422105,2023-07-25T17:02:27.112872,Maharaja Surajmal Institute Of Technology,90.8/150,90.8,1,2,Yes,,Yes,,Yes
+20,3698144,Soniya Zindal,2025,2021ugee051@nitjsr.ac.in,7781939400,2023-07-25T12:01:39.398671,"National Institute of Technology, Jamshedpur",89.6/150,89.6,2,6,Yes,,Yes,,Yes
+21,1233769,Tharun Gurram,2023,19h61a0524@cvsr.ac.in,9391919314,2023-07-25T06:50:09.698893,Anurag Group of Institutions,80.0/150,80,,,Yes,,Yes,Yes,Yes
+22,3985386,Pranay Vikas Boga,2022,pranaychintu27@gmail.com,9573587247,2023-07-25T08:51:38.834678,Sreenidhi Institute of Science & Technology - SNIST,80.0/150,80,,1,Yes,,Yes,,Yes
+23,1080654,Hari om,2024,haricomm6t6@gmail.com,9935448078,2023-07-25T09:36:33.389508,Maharaja Surajmal Institute Of Technology,80.0/150,80,,,Yes,,Yes,,Yes
+24,1704770,Nikhil Mehra,2024,nikhilmehra248@gmail.com,6541038,2023-07-25T15:13:59.520345,Maharaja Surajmal Institute Of Technology,80.0/150,80,,,Yes,,Yes,,Yes
+25,1749868,Chirag Gupta,2024,gchirag120@gmail.com,9870495565,2023-07-25T10:54:30.939401,Maharaja Surajmal Institute Of Technology,52.0/150,52,,1,Yes,,Yes,,Yes
+26,2332163,CHHOTU KUMAR,2025,chhotuhlp7079@gmail.com,7493947684,2023-07-25T12:13:49.120061,"Shri Shankaracharya Institute Of Professional Management And Technology, Raipur",52.0/150,52,,,Yes,,,Yes,Yes
+27,4294681,Tejanshu,2024,destejanshu@gmail.com,9315000755,2023-07-25T08:12:25.34281,Maharaja Surajmal Institute Of Technology,40.0/150,40,,2,Yes,,Yes,,Yes
+28,2022548,Prasanna Kumar,2024,prasannakumar.gullapalli07@gmail.com,9515315874,2023-07-25T11:18:11.230162,Sir C.R.Reddy College of Engineering,40.0/150,40,,1,Yes,,Yes,,Yes
+29,3246904,SHAWETA KUMARI,2023,21mcmc08@uohyd.ac.in,7480925041,2023-07-25T13:04:48.982095,University of Hyderabad,40.0/150,40,,,Yes,Yes,Yes,Yes,Yes
+30,2934199,Nilesh Kudale,2024,nkudale939@gmail.com,7083320981,2023-07-25T13:55:29.827048,Savitribai Phule Pune University,40.0/150,40,1,2,Yes,,Yes,,Yes
+31,1349729,Ritesh Singh,2024,riteshsingh1009@gmail.com,9911660319,2023-07-25T16:59:15.874448,Maharaja Surajmal Institute Of Technology,40.0/150,40,,,Yes,Yes,Yes,,Yes
+32,4069076,Vishal,2024,vishal8383957420@gmail.com,8383957420,2023-07-25T17:06:49.518847,Maharaja Surajmal Institute Of Technology,40.0/150,40,,,Yes,,Yes,,Yes
+33,1286581,Sanyam Jain,2024,sanyammrd56@gmail.com,9773918893,2023-07-25T15:41:44.855675,Maharaja Surajmal Institute Of Technology,22.8/150,22.8,,,Yes,,Yes,,Yes
+34,1874270,SIDHANTA MAITY,2024,thesoulmatecreation@gmail.com,9339532331,2023-07-25T15:58:09.607804,Techno Main Salt Lake,18.4/150,18.4,,,Yes,,Yes,,Yes
+35,2076730,Nikunj,2024,nikunjadm@gmail.com,9871909699,2023-07-25T09:28:23.068626,Maharaja Surajmal Institute Of Technology,17.2/150,17.2,,,Yes,,Yes,,Yes
+36,4264444,ARJUN ROMESH,2026,f20212315@hyderabad.bits-pilani.ac.in,9177841091,2023-07-25T13:44:58.808279,"Birla Institute of Technology & Science, Pilani - Hyderabad",17.2/150,17.2,,2,Yes,,Yes,,Yes
+37,2282619,Bandi Mounika,2021,bandimounika999@gmail.com,8688477420,2023-07-25T14:07:42.10802,Vignan's Institute of Engineering for Women,12.0/150,12,,,Yes,,Yes,,Yes
+38,1651121,xyz,2024,garvitsingh140008@gmail.com,7428766360,2023-07-25T14:34:03.376411,Maharaja Surajmal Institute Of Technology,12.0/150,12,2,3,Yes,,Yes,,Yes
+39,2464514,Taranjeet Singh,2024,taranjeets120@gmail.com,7906001523,2023-07-25T12:11:26.083587,Graphic Era Hill University,10.8/150,10.8,2,2,Yes,Yes,Yes,,Yes
+40,3814581,Harshal Dawande,2025,spacexharshal@gmail.com,8698330518,2023-07-25T15:16:27.629545,G. H. Raisoni College of Engineering,10.8/150,10.8,1,24,Yes,,,Yes,Yes
+41,1837834,Harshit Balodi,2024,balodiharshit1907@gmail.com,9318459151,2023-07-25T11:44:15.227202,Maharaja Surajmal Institute Of Technology,9.6/150,9.6,1,1,Yes,,Yes,,Yes
+42,4254786,Rahul,2024,rahuljhakumar13@gmail.com,8929916400,2023-07-25T13:40:27.28861,Maharaja Surajmal Institute Of Technology,9.6/150,9.6,,,Yes,,Yes,,Yes
+43,2030870,Gaurav Kumar,2024,gauravvv02@gmail.com,9971192171,2023-07-25T15:34:17.271394,Maharaja Surajmal Institute Of Technology,8.8/150,8.8,,,Yes,,Yes,,Yes
+44,1147702,30 Jatin Sharma,2024,js223675@gmail.com,7389076896,2023-07-25T12:24:51.081664,LNCT Group of Colleges,6.4/150,6.4,,,Yes,,Yes,,Yes
+45,1440942,Yash Grewal,2024,yashgrewal2001@gmail.com,9650903896,2023-07-25T07:07:05.004534,Jamia Hamdard,6.0/150,6,,2,Yes,,Yes,Yes,Yes
+46,1922464,Shruti Samal,2024,shrutisamal.347@gmail.com,8851568961,2023-07-25T10:55:17.692941,Maharaja Agrasen Institute Of Technology,3.6/150,3.6,1,7,,Yes,Yes,,Yes
+47,3719132,RATNESH KUMAR DUBEY,2024,ratneshkumardubey5426@gmail.com,9770527215,2023-07-25T12:25:58.911039,Shri Ram Institute Of Technology,3.6/150,3.6,1,1,Yes,,Yes,Yes,Yes
+48,4245953,Arjun handa,2024,handa.arjun11121@gmail.com,9540303330,2023-07-25T15:40:58.734942,Maharaja Surajmal Institute Of Technology,3.6/150,3.6,,,Yes,,Yes,Yes,Yes
+49,2183012,Anand Sagar,2025,anandsagar0006@gmail.com,8102380197,2023-07-25T16:45:08.234926,LNCT University,3.6/150,3.6,,,,Yes,Yes,,Yes
+50,1592942,"Mennuli Kiran, 209 X1 A02 B8",2024,209x1a02b8@gprec.ac.in,9182285084,2023-07-25T06:42:57.121785,G pulla Reddy Engineering College,2.4/150,2.4,,,,Yes,,Yes,Yes
+51,4062738,TIPPASANI SRIKANTH,2024,tippasanisrikanth9966@gmail.com,8978590089,2023-07-25T07:25:53.871389,"Rajiv Gandhi University of Knowledge and Technology , Nuzvid",2.4/150,2.4,,,Yes,,Yes,,Yes
+52,1259041,Ashu singh rana,2024,ranaashu0813@gmail.com,8700259460,2023-07-25T07:52:19.57056,Maharaja Surajmal Institute Of Technology,2.4/150,2.4,,,,Yes,Yes,,Yes
+53,4277207,vidae,2024,siddharth.dhondiyal2512@gmail.com,8851238089,2023-07-25T10:03:42.631042,Maharaja Surajmal Institute Of Technology,2.4/150,2.4,,,Yes,,Yes,,Yes
+54,3437080,Abhishek Kumar,2024,khimanshukumar03@gmail.com,6386586906,2023-07-25T06:31:40.217408,Rajkiya Engineering College Azamgarh,0.0/150,0,,,Yes,,Yes,,Yes
+55,4253892,yash jain,2024,jainyash1402@gmail.com,9821191448,2023-07-25T06:39:36.98802,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+56,3994410,Bonthala Jyothi Anuradha,2025,21jr1a4311@gmail.com,9.17816E+11,2023-07-25T06:49:30.827275,KKR & KSR Institute of Technology and Sciences,0.0/150,0,,,,Yes,,,
+57,3833573,Alice Thobe,2025,alicethobe1@gmail.com,8295281865,2023-07-25T06:49:39.849092,Jai Parkash Mukand Lal Innovative Engineering & Technology Institute (JMIETI),0.0/150,0,,,,Yes,,Yes,Yes
+58,4313862,Devil,2024,devilfromhell16@gmail.com,8527834259,2023-07-25T06:49:42.817769,AVNIET,0.0/150,0,,,Yes,,Yes,,Yes
+59,3885651,Rajesh Kumar Jena,2026,getrajeshkumarjena@gmail.com,7815010734,2023-07-25T07:57:53.796686,"IIIT,BBSR",0.0/150,0,,,Yes,,,,Yes
+60,4238607,Sahil Goyal,2024,goyal.sahil0123@gmail.com,8287877743,2023-07-25T09:11:55.012373,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+61,1286577,Nitish Kumar Gond,2024,nitishgond555@gmail.com,7267864662,2023-07-25T09:34:40.642161,Noida Institute of Engineering and Technology,0.0/150,0,,,Yes,,,,
+62,4291387,UYYALA NAVEEN,2025,21131a1254@gvpce.ac.in,7207347040,2023-07-25T09:48:24.756226,GVP College of Engineering (Autonomous),0.0/150,0,,1,Yes,Yes,,Yes,Yes
+63,3112337,Arun Praveen Raj S,2024,arunpraveenraj255@gmail.com,7094228508,2023-07-25T10:36:07.802962,Anna University,0.0/150,0,,,,Yes,Yes,,Yes
+64,1573591,Ankit Kumar,2024,an12sn14@gmail.com,9555523440,2023-07-25T10:57:14.276861,"Rajkiya Engineering College, Ambedkar Nagar",0.0/150,0,,,Yes,,Yes,,Yes
+65,553838,Dewashish Mehta,2023,dewashish3596@yahoo.com,9458156179,2023-07-25T11:08:14.924493,DIT University,0.0/150,0,,,,Yes,,Yes,Yes
+66,1115498,Aman,2024,amanpandey1910@gmail.com,8130238735,2023-07-25T11:21:49.796174,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,
+67,3813316,Lavanya,2026,apparaoselli9@gmail.com,9182475743,2023-07-25T11:28:25.294885,CMR Institute of Technology,0.0/150,0,,,,Yes,,,Yes
+68,1739419,Sowham Bhuin,2025,sowhambhuin99sb2020@gmail.com,9641731870,2023-07-25T11:32:31.183047,Jalpaiguri Government Engineering College,0.0/150,0,,,Yes,,Yes,,Yes
+69,4294944,III CSE 584,2024,vaishnavisunkara126@gmail.com,7995936833,2023-07-25T11:32:34.9052,"Jawaharlal Nehru Technological University, Kakinada",0.0/150,0,,,,Yes,,Yes,Yes
+70,4315987,Aksh Darji,2024,akshdarji2019@gmail.com,7574036617,2023-07-25T11:38:43.17694,SAFFRONY INSTITUTE OF TECHNOLOGY,0.0/150,0,,,Yes,,,,Yes
+71,3452977,ram murini,2021,rammurini@gmail.com,6303448670,2023-07-25T11:58:49.476254,JNTUA COLLEGE OF ENGINEERING ANANTAPUR,0.0/150,0,,,,Yes,Yes,,Yes
+72,2279376,Ankit Garg,2024,techclubjpr@gmail.com,8504912160,2023-07-25T12:06:27.627379,Amity School Of Engineering And Technology,0.0/150,0,2,3,Yes,Yes,Yes,,Yes
+73,2252387,AVISHEK CHOUDHURY,2024,avishekchoudhury219@gmail.com,8597921461,2023-07-25T12:09:54.877934,Narula Institute of Technology,0.0/150,0,,,Yes,,,Yes,Yes
+74,3025210,Afreen Banu,2020,afreen7829@gmail.com,7829163046,2023-07-25T12:12:02.441695,Visvesvaraya Technological University (VTU),0.0/150,0,,,,Yes,,,
+75,1685301,Chandan Sahu,2024,cs154896@gmail.com,7846935858,2023-07-25T12:39:28.623646,Nalanda Institute of Technology,0.0/150,0,,,Yes,,,Yes,Yes
+76,1630017,Niraj,2026,flamingocool2@gmail.com,9503517330,2023-07-25T12:46:46.512593,Lovely Professional University,0.0/150,0,,,,Yes,,Yes,Yes
+77,3852582,Srivalli Tonta,2022,srivallithonta08@gmail.com,9.18688E+11,2023-07-25T13:06:00.566825,Eluru Engineering College,0.0/150,0,3,4,Yes,,Yes,,Yes
+78,3909581,Naga Jyothi Y,2024,yarramreddynagajyothi@gmail.com,9391740400,2023-07-25T13:25:31.412501,RGUKT ONGOLE,0.0/150,0,,,Yes,,Yes,,Yes
+79,1996515,Pratyush Singh,2024,singhpratyushgautam1199@gmail.com,8877651880,2023-07-25T13:31:39.867801,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+80,2467508,Chehak Batra,2024,chehakbatra5911@gmail.com,7073213634,2023-07-25T13:35:48.752451,Maharaja Surajmal Institute Of Technology,0.0/150,0,1,2,Yes,,Yes,,Yes
+81,1277518,Akshat Girdhar.,2024,akshatgirdhar5@gmail.com,9643662276,2023-07-25T13:57:59.769846,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,Yes,Yes
+82,2197394,Dasyam Keerthana,2024,dasyamkeerthana04@gmail.com,8330947367,2023-07-25T14:04:52.284963,Gudlavalleru Engineering College,0.0/150,0,2,3,Yes,,Yes,,Yes
+83,3797798,kiranmayee Kandregula,2026,kiranmayeekandregula514@gmail.com,9490891278,2023-07-25T14:22:27.888425,Vignan's Institute Of Information Technology,0.0/150,0,,,,Yes,,,
+84,1270713,Jaspreet Kaur,2024,jaspreetkaursaini469@gmail.com,7009400665,2023-07-25T14:29:50.965157,"IKG Punjab Technical University, Mohali Campus-1",0.0/150,0,,,Yes,,Yes,,Yes
+85,3078339,Shyam Shukla,2023,shuklashyam279@gmail.com,9554488124,2023-07-25T14:33:14.695745,"Bansal Institute of Science and Technology, Bhopal",0.0/150,0,,,Yes,,Yes,,Yes
+86,2502696,Aadarsh Ranjan,2025,aadarshranjan8539@gmail.com,8825313956,2023-07-25T14:48:51.158365,Lovely Professional University,0.0/150,0,,,Yes,,Yes,,
+87,4060119,Shaik Saniya Taheseen ,2024,saniyashaik044@gmail.com,7032109414,2023-07-25T14:53:25.098792,Rajeev Gandhi Memorial College of Engineering and Technology,0.0/150,0,,,Yes,,,Yes,Yes
+88,2250148,Gourav Sharma,2024,gourav27012001@gmail.com,7703975336,2023-07-25T15:07:55.234006,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+89,3274294,Shivam Kumar,2024,shivamkumar181211@gmail.com,9354645233,2023-07-25T15:15:11.141752,Maharaja Surajmal Institute Of Technology,0.0/150,0,3,12,Yes,Yes,Yes,,Yes
+90,3077007,Shriya Sharma ,2024,sshriya463@gmail.com,8626820456,2023-07-25T15:56:06.808355,Chitkara university institute of engineering and technology,0.0/150,0,3,5,Yes,,Yes,,
+91,3911977,ADITYA KUMAR,2026,aditya.kumar1.cs.2022@mitmeerut.ac.in,9110169560,2023-07-25T16:02:14.809692,MIET College,0.0/150,0,,,Yes,,,,
+92,136348,Vaibhav Raut,2022,vaibhav.raut851@gmail.com,9579354301,2023-07-25T16:05:02.093016,Savitribai Phule Pune University,0.0/150,0,,,Yes,,Yes,,Yes
+93,1997476,Meghavi Sisodiya,2022,meghavisisodiya1108@gmail.com,9131728457,2023-07-25T16:09:31.807483,Indore Institute of Science & Technology,0.0/150,0,,,,Yes,,Yes,Yes
+94,3937991,K VARSHA,2024,217r5a0410@cmrtc.ac.in,8328202030,2023-07-25T16:19:39.859668,CMR Technical Campus,0.0/150,0,,,,Yes,Yes,,Yes
+95,2261750,Srikar P,2024,sriharvijay2020@gmail.com,7539987998,2023-07-25T16:25:42.82421,Sona College of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+96,3877347,Vaibhav Gupta,2025,vaibhav16032005@gmail.com,8700017635,2023-07-25T16:33:28.194657,"Sunder Deep Engineering College, Ghaziabad",0.0/150,0,,,Yes,,,,
+97,3881342,Sheh zadi,2025,shivanikatariya77321@gmail.com,8319327100,2023-07-25T16:41:11.950344,Samrat Ashok Technological Institute,0.0/150,0,,,,Yes,,Yes,Yes
+98,1375578,Priya Kumari,2024,kajalgupta02012001@gmail.com,8603630731,2023-07-25T16:44:08.082565,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+99,4041248,,2025,agrawalvinee55@gmail.com,7987626718,,"Institute of Engineering & Science, IPS Academy",0.0/150,0,,,Yes,,,Yes,Yes
+99,3776335,Shourya Bhardwaj,2026,shouryabhardwaj32@gmail.com,9540851125,,Deenbandhu Chhotu Ram University Of Science And Technology,0.0/150,0,,,Yes,,Yes,,Yes
+99,1277608,Saurav Kumar,2024,forsauravkumar@gmail.com,7982364178,,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+99,2465313,surya c,2025,suryacp.com@gmail.com,9679737317,,Mahendra College of Engineering,0.0/150,0,,1,Yes,,,Yes,Yes
+99,1825456,Kapil,2024,kapilmandowra96@gmail.com,8448688841,,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+99,2221615,NISHANT KUMAR,2024,201230027@nitdelhi.ac.in,8092383120,,National Institute of Technology Delhi (New Campus),0.0/150,0,,,Yes,,,Yes,Yes
+99,2216261,Shiva Kashyap,2023,7310526202shivakashyap@gmail.com,7310526202,,Krishna Institute,0.0/150,0,,,Yes,,,Yes,Yes
+99,241110,Ravada Sai Venkatesh,2024,venkateshravada544@gmail.com,8978883810,,IIIT Hyderabad,0.0/150,0,,,Yes,,Yes,,Yes
+99,1439382,Akshat Khandelwal,2025,akshat.khandelwal2002@gmail.com,6376225758,,JECRC University,0.0/150,0,,,Yes,,Yes,,Yes
+99,3473479,Shayla Khan,2024,shaylakhan042@gmail.com,9576259180,,Anand Agricultural University,0.0/150,0,,,Yes,,Yes,,Yes
+99,2868838, SWAGATA DATTA,2025,swagatadatta0310@gmail.com,7085439129,,National Institute of Technology Agartala,0.0/150,0,,,Yes,,,,Yes
+99,1603138,Shubham Chauhan,2024,cshubham1911@gmail.com,9547707481,,The Maharaja Sayajirao University of Baroda,0.0/150,0,,,Yes,,Yes,,Yes
+99,1148289,simi princy,2024,simiprincy@gmail.com,9080328414,,Chennai Institute of Technology,0.0/150,0,,,Yes,,Yes,,Yes
+99,4011020,amulya kurapati,2026,amulyakurapati1@gmail.com,9949612050,,Lovely Professional University,0.0/150,0,,,Yes,,,,Yes
+99,1605444,Monitha Sai,2024,nmschinnala@gmail.com,8801112518,,Chaitanya Bharathi Institute of Technology,0.0/150,0,,,,Yes,,Yes,Yes
+99,1841930,Anubhav K1025,2024,anubhavk9968@gmail.com,8377834447,,Maharaja Surajmal Institute Of Technology,0.0/150,0,1,1,Yes,,Yes,,Yes
+99,4086657,Unnati Saxena,2024,unnatisaxena1605@gmail.com,7668947449,,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,,Yes,Yes
+99,1128121,Revolution!!,2024,revolution15082002@gmail.com,7982045133,,Maharaja Surajmal Institute Of Technology,0.0/150,0,,,Yes,,,,Yes
+99,2314776,Raghav Bansal,2025,raghavbansal242003@gmail.com,6284736641,,TIET - Thapar Institute of Engineering And Technology,0.0/150,0,,,,Yes,,Yes,Yes
+99,1365696,Aniket Jain,2024,aniket.jain014@gmail.com,9837467331,,Teerthanker Mahaveer University,0.0/150,0,,,Yes,,,Yes,Yes

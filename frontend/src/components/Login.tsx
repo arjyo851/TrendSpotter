@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import Api from "../api/ApiConfig";
-import toast, { Toaster } from "react-hot-toast";
+import toast from "react-hot-toast";
 
 function Login() {
   useEffect(() => {
@@ -15,6 +15,7 @@ function Login() {
 
   function handleLogin(e: React.MouseEvent<HTMLButtonElement>) {
     e.preventDefault();
+    // eslint-disable-next-line
     var mailFormat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
     if (email === "") {
       toast.error("Email can't be empty");

@@ -53,3 +53,11 @@ def recc_images(file_path:str):
                 recommended_images = [img_files_list[index] for index in img_indicess[0]]
                 # print(recommended_images)
                 return recommended_images
+
+# def image_numpy(file_path:str):
+#     img = Image.open(file_path)
+#     img = img.resize((224, 224))
+#     img = np.array(img)
+#     img = np.expand_dims(img, axis=0)
+#     img = preprocess_input(img)
+#     return img

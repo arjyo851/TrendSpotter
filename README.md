@@ -1,6 +1,6 @@
 # TrendSpotter - Clothing Recommender System
 
-![Logo](https://socialify.git.ci/arjyo851/HomeSolutions/image?font=Raleway&language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
+![Logo](https://socialify.git.ci/arjyo851/TrendSpotter/image?font=Raleway&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Dark)
 
 TrendSpotter is a powerful clothing recommendation system that utilizes machine learning and image analysis to provide personalized fashion recommendations to users. It is built using Python and Django for the backend, React.js for the frontend, and integrates various technologies to ensure a seamless and efficient user experience.
 

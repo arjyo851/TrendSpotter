@@ -49,7 +49,7 @@ npm start
 ```
 
 
-4. Set up Redis on WSL if you are on windows
+4. Set up Redis using linux terminal
 ```bash
 sudo service redis-server start
 ```

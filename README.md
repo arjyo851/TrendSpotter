@@ -4,6 +4,10 @@
 
 TrendSpotter is a powerful clothing recommendation system that utilizes machine learning and image analysis to provide personalized fashion recommendations to users. It is built using Python and Django for the backend, React.js for the frontend, and integrates various technologies to ensure a seamless and efficient user experience.
 
+## Working
+
+![gif](https://github.com/arjyo851/TrendSpotter/blob/main/TrendSpotter.gif)
+
 ## Features
 
 - **Fashion Recommendation:** TrendSpotter uses the machine learning model ResNet50 for image analysis. It can recognize clothing items in images and recommend similar products, allowing users to explore the latest fashion trends effortlessly.

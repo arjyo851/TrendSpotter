@@ -58,6 +58,6 @@ sudo service redis-server start
 
 ## Contribution Guidelines
 
-Contributions to TrendSpotter are welcome! If you find any bugs, have feature suggestions, or want to make improvements, feel free to open an issue or submit a pull request. We follow the standard Git flow for version control.
+Contributions to TrendSpotter are welcome! If you find any bugs, have feature suggestions, or want to make improvements, feel free to open an issue or submit a pull request. 
 
 

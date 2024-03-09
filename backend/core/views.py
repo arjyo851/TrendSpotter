@@ -38,14 +38,11 @@ class FileUploadView(GenericAPIView):
             res = File.objects.create(file=file)  # create a file object
         except Exception as e:
             return JsonResponse({"File error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-        print(res.file.path)
         # Check if the image recommendations are already cached in Redis
         image_hash = str(imagehash.average_hash(Image.open(os.path.join(Path(__file__).resolve().parent.parent, 'media', res.file.name))))     
-        print(image_hash)   
         cache_key = f"recommended_images_{image_hash}"
         # print(cache_key)
         recommended_images = cache.get(cache_key)
-        print(recommended_images )
         if not recommended_images:
             try:
                 img_indicess = recc_images(os.path.join(Path(__file__).resolve().parent.parent, 'media', res.file.name))

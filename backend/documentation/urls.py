@@ -9,8 +9,8 @@ schema_view = get_schema_view(
       title="API Documentation",
       default_version='v1',
       description="""
-        The Urine Strip Color Extraction API is an online
-          service that offers the capability to extract color information from images uploaded by users.
+        TrendSpotter is an online fashion recommendation system using ResNet50 and K-means clustering.
+         that offers the capability to extract color information from images uploaded by users.
       """,
       contact=openapi.Contact(email="arjyo77@gmail.com"),
    ),

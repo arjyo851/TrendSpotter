@@ -42,22 +42,12 @@ def recommendd(features, features_list):
 
     
 def recc_images(file_path:str):
-                # show_images = Image.open(file_path)
-                # size = (400, 400)
-                # resized_im = show_images.resize(size)
-                # extract features of the uploaded image
-                features = extract_img_features(file_path, model)
-                img_indicess = recommendd(features, features_list)
-                # print(img_indicess)
-                # print(img_indicess[0][1])
-                recommended_images = [img_files_list[index] for index in img_indicess[0]]
-                # print(recommended_images)
-                return recommended_images
 
-# def image_numpy(file_path:str):
-#     img = Image.open(file_path)
-#     img = img.resize((224, 224))
-#     img = np.array(img)
-#     img = np.expand_dims(img, axis=0)
-#     img = preprocess_input(img)
-#     return img
+    features = extract_img_features(file_path, model)
+    img_indicess = recommendd(features, features_list)
+
+    recommended_images = [img_files_list[index] for index in img_indicess[0]]
+
+    return recommended_images
+
+

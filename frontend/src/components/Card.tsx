@@ -6,7 +6,7 @@ interface CardProps {
 
 const Card: React.FC<CardProps> = ({ id }) => {
   const imageURL =
-    "https://res.cloudinary.com/da3qf0dys/image/upload/v1690302352/fashion_small/" +
+    "fashion_small/images/" +
     id +
     ".jpg";
 

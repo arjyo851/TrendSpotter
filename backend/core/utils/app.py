@@ -15,21 +15,21 @@ model = Sequential([model, GlobalMaxPooling2D()]) # adding global max pooling la
 #model.summary()
 
 def extract_features(img_path,model):
-    img = image.load_img(img_path,target_size=(224,224))
-    img_array = image.img_to_array(img)
-    expand_img = np.expand_dims(img_array,axis=0)
-    preprocessed_img = preprocess_input(expand_img)
-    result_to_resnet = model.predict(preprocessed_img)
-    flatten_result = result_to_resnet.flatten()
+    img = image.load_img(img_path,target_size=(224,224)) # loads image and resizes it
+    img_array = image.img_to_array(img) # converts image to numpy array
+    expand_img = np.expand_dims(img_array,axis=0) # adds one more dimension to the image
+    preprocessed_img = preprocess_input(expand_img)     # preprocesses the image
+    result_to_resnet = model.predict(preprocessed_img) # predicts the image
+    flatten_result = result_to_resnet.flatten() # flattens the result to 1D array
     # normalizing
     result_normlized = flatten_result / norm(flatten_result)
 
     return result_normlized
-#print(os.listdir('fashion_small/images'))
+
 img_files = []
 
-for fashion_images in os.listdir('fashion_small/images'):
-    images_path = os.path.join('fashion_small/images', fashion_images)
+for fashion_images in os.listdir('../frontend/public/fashion_small/images'):
+    images_path = os.path.join('../frontend/public/fashion_small/images', fashion_images)
     img_files.append(images_path)
 
 # extracting image features
